@@ -10,9 +10,9 @@ const images = [
 
 
     const imageUrls = [
-            { url: 'url_of_image_1.jpg' },
-            { url: 'url_of_image_2.jpg' },
-            // ... Add more image URLs here
+            { url: "https://picsum.photos/id/237/200/300" },
+  { url: "https://picsum.photos/id/238/200/300" },
+  { url: "https://picsum.photos/id/239/200/300" },
         ];
 
         function downloadImage(image) {
